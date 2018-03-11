@@ -36,5 +36,4 @@ The file `region_11_rx_0.csv` would be aggregated data for region 11 (North East
 
 # TO-DO
 
-- I got rate limited when I tried collecting the worldwide data. I need to get that and generate the CSV files for that "region" once I am no longer rate limited.
 - Update the scripts to take in parameter names which control region, scaled, etc.

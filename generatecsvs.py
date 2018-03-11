@@ -5,7 +5,7 @@ import os
 BASE_FILENAME = 'region_%d_rx_%d.csv'
 
 scaled = [0,1]
-regions = [r for r in range(1,17)]
+regions = [0] # [r for r in range(1,17)]
 
 for s in scaled:
     for r in regions:
